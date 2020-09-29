@@ -8,6 +8,8 @@ public class Prueba {
 		int x1 = 0;
 		int y1 = 0;
 		int z1 = 0;
+		int cebollin = 0;
+		
 
 
 	}
